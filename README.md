@@ -11,9 +11,11 @@ The analysis will answer:
 
 ## Results
 * The Vine program had 2,829 total reviews and there were 1,574,578 non-Vine reviews.
-images
+![vine program total reviews](https://github.com/JacquelineCl/Amazon_Vine_Analysis/blob/1c8f81244b281e98c1762c3119b5941ed6731c23/Resources/vine_program_total_reviews.png)
+![non-vine program total reviews](https://github.com/JacquelineCl/Amazon_Vine_Analysis/blob/1c8f81244b281e98c1762c3119b5941ed6731c23/Resources/not_vine_program_total_reviews.png)
 * The Vine program had 1,044 5-star reviews and there were 895,551 non-Vine 5-star reviews. 
-images
+![vine program total 5-star reviews](https://github.com/JacquelineCl/Amazon_Vine_Analysis/blob/1c8f81244b281e98c1762c3119b5941ed6731c23/Resources/vine_program_total_5_star_reviews.png)
+![non-vine program total reviews](https://github.com/JacquelineCl/Amazon_Vine_Analysis/blob/1c8f81244b281e98c1762c3119b5941ed6731c23/Resources/not_vine_program_total_5_star_reviews.png)
 * 37% of the Vine program reviews were 5-star and 57% of the non-Vine reviews were 5-star.
 
 ## Summary
